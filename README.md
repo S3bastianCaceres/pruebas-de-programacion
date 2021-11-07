@@ -14,3 +14,4 @@ Times New Roman font pack
 <H5> Texto de prueba (H5)</H5>
 <H6> Texto de prueba (H6)</H6>
 Hola mne llamo esteban Caceres
+<img src="https://latex.codecogs.com/svg.image?\textbf{INFORME&space;DE&space;LABORATORIO&space;3}" title="\textbf{INFORME DE 
