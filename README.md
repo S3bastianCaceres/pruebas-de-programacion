@@ -5,4 +5,4 @@
 holas
 
    
-$$\textbf{INFORME DE LABORATORIO 3}$$
+$$(\textbf{INFORME DE LABORATORIO 3})$
